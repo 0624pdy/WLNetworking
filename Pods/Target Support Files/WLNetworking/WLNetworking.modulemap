@@ -1,0 +1,6 @@
+framework module WLNetworking {
+  umbrella header "WLNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
